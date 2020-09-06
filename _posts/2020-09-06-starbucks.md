@@ -1,16 +1,18 @@
 ---
 layout: post
-title:  "Expected Length of the Starbucks Line (Queueing Theory)"
+title:  "Expected Length of the Coffee Shop Line (Queueing Theory)"
 date:   2020-09-06 22:18:10 +0000
 ---
 
-# Expected Length of the Starbucks Line (Queueing Theory)
+# Expected Length of the Coffee Shop Line (Queueing Theory)
 
-It's 5:45 PM on a Sunday, and you are sitting in the university library trying to crank out the last of your weekend assignments. You've been working since noon, and you decide it's time to hotwire your exhausted brain with some sweet, sweet caffeine. It's only a short walk to the nearest coffee shop, so you pack up your laptop and notebooks and decide to go for it.
+It's 5:45 PM on a Sunday, and you are sitting in the university library trying to crank out the last of your weekend assignments. You've been working since noon, and you decide it's time to hotwire your exhausted brain with some caffeine. It's only a short walk to the nearest coffee shop, so you pack up your laptop and notebooks and decide to go for it.
 
-Upon arriving, you see the line, and it is very long. "Isn't coffee supposed to be a morning drink?" you think to yourself, "On the other hand, here I am..." You weigh your limited schedule with your addiction to coffee, and decide the 20 minute wait is worth it.
+Upon walking into the coffee shop, you notice there are around ten people in line. "Ten people on a Sunday evening?" you think, "I thought coffee was supposed to be a morning drink." And yet, here you are. After weighing your need for coffee versus the time you could spend writing your essay, you decide the coffee is probably not worth it.
 
-After standing in line, shuffling through your playlists and staring out the window, it's finally time to order. After another 10 minutes standing with your hands in your pockets in the waiting area, making a point not to look over the baristas' shoulders as they work, you grab your coffee and go. 
+On the walk back, you think about the effect that the long line had on your decision. In some sense, the cost of waiting in line makes the length of the line a self-sustaining system, since more people standing in line makes it less likely that even more people will enter. In fact, you realize, if the base rate of new customers exceeds the base rate of drink preparation, then this is the only mechanism by which the line will stabilize.
+
+When you arrive back at your desk, you decide that your essay is far less interesting than mathematically modeling your favorite coffee shop.
 
 ## Poisson processes
 
