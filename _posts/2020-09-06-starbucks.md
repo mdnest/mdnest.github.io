@@ -4,8 +4,6 @@ title:  "Expected Length of the Coffee Shop Line (Queueing Theory)"
 date:   2020-09-06 22:18:10 +0000
 ---
 
-# Expected Length of the Coffee Shop Line (Queueing Theory)
-
 It's 5:45 PM on a Sunday, and you are sitting in the university library trying to crank out the last of your weekend assignments. You've been working since noon, and you decide it's time to hotwire your exhausted brain with some caffeine. It's only a short walk to the nearest coffee shop, so you pack up your laptop and notebooks and decide to go for it.
 
 Upon walking into the coffee shop, you notice there are around ten people in line. "Ten people on a Sunday evening?" you think, "I thought coffee was supposed to be a morning drink." And yet, here you are. After weighing your need for coffee versus the time you could spend writing your essay, you decide the coffee is probably not worth it.
@@ -14,7 +12,7 @@ On the walk back, you think about the effect that the long line had on your deci
 
 When you arrive back at your desk, you decide that your essay is far less interesting than mathematically modeling your favorite coffee shop.
 
-## Poisson processes
+# Poisson processes
 
 I've already made a blog post describing Poisson processes before, but since they are so ubiquotous in stochastic processes, it is worth another go. Let's make the following assumptions about Starbucks:
 
