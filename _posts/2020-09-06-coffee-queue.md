@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Expected Length of the Coffee Shop Line (Queueing Theory)"
-date:   2020-09-06 22:18:10 +0000
----
+#---
+#layout: post
+#title:  "Expected Length of the Coffee Shop Line (Queueing Theory)"
+#date:   2020-09-06 22:18:10 +0000
+#---
 
 It's 5:45 PM on a Sunday, and you are sitting in the university library trying to crank out the last of your weekend assignments. You've been working since noon, and you decide it's time to hotwire your exhausted brain with some caffeine. It's only a short walk to the nearest coffee shop, so you pack up your laptop and notebooks and decide to go for it.
 
