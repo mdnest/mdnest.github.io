@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Expected Length of the Starbucks Line (Queueing Theory)"
+date:   2020-09-06 22:18:10 +0000
+---
 
 # Expected Length of the Starbucks Line (Queueing Theory)
 
